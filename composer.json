@@ -1,0 +1,12 @@
+{
+    "name": "schoeller-technocell/excel-sap-translator",
+    "authors": [
+        {
+            "name": "Andre Sieverding",
+            "email": "asieverding@felix-schoeller.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.4"
+    }
+}
