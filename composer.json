@@ -2,8 +2,7 @@
     "name": "schoeller-technocell/excel-sap-translator",
     "authors": [
         {
-            "name": "Andre Sieverding",
-            "email": "asieverding@felix-schoeller.com"
+            "name": "Andre Sieverding"
         }
     ],
     "require": {
